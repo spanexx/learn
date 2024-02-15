@@ -29,7 +29,7 @@ export class AboutMeComponent {
   public profileImage: string = 'assets/victor.jpg'; // Update the path accordingly
   public name: string = 'Victor Chidera Ani';
   public skills: string[] = [
-    'Angular', 'TypeScript', 'Bartending', 'HTML', 'CSS', 'MySQL'
+    'Angular', 'TypeScript', 'HTML', 'CSS', 'MongoDB', 'Git', 'Bartending'
     // Add more experiences as needed
   ];
 }
